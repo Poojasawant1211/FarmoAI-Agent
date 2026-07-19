@@ -1,0 +1,15 @@
+{
+  "name": "FarmoAI Agent",
+  "description": "An AI-powered smart farming assistant that helps farmers with crop recommendations, disease identification, fertilizer suggestions, irrigation guidance, and sustainable farming practices.",
+  "version": "1.0.0",
+  "author": "Pooja Sawant",
+  "repository": "https://github.com/Poojasawant1211/FarmoAI-Agent",
+  "license": "MIT",
+  "keywords": [
+    "AI",
+    "Agriculture",
+    "Smart Farming",
+    "FarmoAI",
+    "Chatbot"
+  ]
+}
